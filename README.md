@@ -28,7 +28,6 @@ Proyek ini berbentuk *Experiment Challenge*: model dibangun secara bertahap untu
 |---|---|
 | `UTS_PMML_Credit_Default.ipynb` | Notebook utama (Experiment 0 sampai 5, lengkap dengan kode dan output) |
 | `UCI_Credit_Card.csv` | Dataset yang dipakai |
-| `laporan_uts.pdf` | PDF Final Analysis (tabel ringkasan, jawaban 5 pertanyaan, kesimpulan) |
 
 ## Alur Eksperimen
 
